@@ -1,0 +1,5574 @@
+[
+  {
+    "id": "p_0",
+    "title": "Noah Shah",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Saint Louis University",
+    "tags": [
+      "Design",
+      "Business",
+      "Data Science",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Design, Business, Data Science."
+  },
+  {
+    "id": "p_1",
+    "title": "Sophia Shah",
+    "type": "person",
+    "domain": "Business",
+    "university": "Saint Louis University",
+    "tags": [
+      "Data Science",
+      "AI/ML",
+      "Cybersecurity",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Data Science, AI/ML, Cybersecurity."
+  },
+  {
+    "id": "p_2",
+    "title": "Diya Johnson",
+    "type": "person",
+    "domain": "Design",
+    "university": "Saint Louis University",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Business",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in AI/ML, Healthcare, Business."
+  },
+  {
+    "id": "p_3",
+    "title": "Sophia Taylor",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Saint Louis University",
+    "tags": [
+      "Cybersecurity",
+      "Healthcare",
+      "Coding",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Cybersecurity, Healthcare, Coding."
+  },
+  {
+    "id": "p_4",
+    "title": "Aarav Mehta",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Saint Louis University",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Data Science",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Healthcare, Business, Data Science."
+  },
+  {
+    "id": "p_5",
+    "title": "Nora Shah",
+    "type": "person",
+    "domain": "Business",
+    "university": "Saint Louis University",
+    "tags": [
+      "Business",
+      "Coding",
+      "Data Science",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Business, Coding, Data Science."
+  },
+  {
+    "id": "p_6",
+    "title": "Olivia Brown",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Saint Louis University",
+    "tags": [
+      "Business",
+      "Design",
+      "AI/ML",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Business, Design, AI/ML."
+  },
+  {
+    "id": "p_7",
+    "title": "Liam Brown",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "Saint Louis University",
+    "tags": [
+      "Design",
+      "Robotics",
+      "AI/ML",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Design, Robotics, AI/ML."
+  },
+  {
+    "id": "c_0",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "Saint Louis University",
+    "tags": [
+      "Design",
+      "Data Science",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "c_1",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Business",
+    "university": "Saint Louis University",
+    "tags": [
+      "Business",
+      "Design",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "c_2",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "Saint Louis University",
+    "tags": [
+      "Robotics",
+      "Business",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "e_0",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "Saint Louis University",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_1",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Business",
+    "university": "Saint Louis University",
+    "tags": [
+      "Coding",
+      "Healthcare",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Business. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_2",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Design",
+    "university": "Saint Louis University",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_8",
+    "title": "Noah Martin",
+    "type": "person",
+    "domain": "Design",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Cybersecurity",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in AI/ML, Business, Cybersecurity."
+  },
+  {
+    "id": "p_9",
+    "title": "Nora Kim",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Design",
+      "Healthcare",
+      "Robotics",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Healthcare, Robotics."
+  },
+  {
+    "id": "p_10",
+    "title": "Nora Johnson",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Coding",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Cybersecurity, Business, Coding."
+  },
+  {
+    "id": "p_11",
+    "title": "Isha Johnson",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Design",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Data Science, Healthcare, Design."
+  },
+  {
+    "id": "p_12",
+    "title": "Nora Johnson",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Data Science",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Cybersecurity, AI/ML, Data Science."
+  },
+  {
+    "id": "p_13",
+    "title": "Diya Mehta",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Business",
+      "Design",
+      "Data Science",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Business, Design, Data Science."
+  },
+  {
+    "id": "p_14",
+    "title": "Olivia Chen",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "AI/ML",
+      "Robotics",
+      "Data Science",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in AI/ML, Robotics, Data Science."
+  },
+  {
+    "id": "p_15",
+    "title": "Diya Taylor",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Business",
+      "Coding",
+      "Design",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Business, Coding, Design."
+  },
+  {
+    "id": "c_3",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Coding",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "AI/ML",
+      "Robotics",
+      "Data Science",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_4",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Coding",
+      "Healthcare",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "c_5",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Design",
+      "Business",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "e_3",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Coding",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_4",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Business",
+      "Coding",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_5",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Design",
+    "university": "Washington University in St. Louis",
+    "tags": [
+      "Design",
+      "Healthcare",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_16",
+    "title": "Diya Martin",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "Harvard University",
+    "tags": [
+      "Coding",
+      "Business",
+      "Robotics",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Coding, Business, Robotics."
+  },
+  {
+    "id": "p_17",
+    "title": "Ethan Singh",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Harvard University",
+    "tags": [
+      "Data Science",
+      "Business",
+      "Healthcare",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Data Science, Business, Healthcare."
+  },
+  {
+    "id": "p_18",
+    "title": "Sophia Martin",
+    "type": "person",
+    "domain": "Design",
+    "university": "Harvard University",
+    "tags": [
+      "Data Science",
+      "Robotics",
+      "Cybersecurity",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Data Science, Robotics, Cybersecurity."
+  },
+  {
+    "id": "p_19",
+    "title": "Nora Chen",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "Harvard University",
+    "tags": [
+      "Design",
+      "Business",
+      "AI/ML",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Business, AI/ML."
+  },
+  {
+    "id": "p_20",
+    "title": "Nora Patel",
+    "type": "person",
+    "domain": "Design",
+    "university": "Harvard University",
+    "tags": [
+      "Design",
+      "AI/ML",
+      "Data Science",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Design, AI/ML, Data Science."
+  },
+  {
+    "id": "p_21",
+    "title": "Sophia Taylor",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Harvard University",
+    "tags": [
+      "Business",
+      "AI/ML",
+      "Coding",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Business, AI/ML, Coding."
+  },
+  {
+    "id": "p_22",
+    "title": "Diya Singh",
+    "type": "person",
+    "domain": "Design",
+    "university": "Harvard University",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Healthcare",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Cybersecurity, Business, Healthcare."
+  },
+  {
+    "id": "p_23",
+    "title": "Isha Martin",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "Harvard University",
+    "tags": [
+      "Cybersecurity",
+      "Data Science",
+      "Design",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Cybersecurity, Data Science, Design."
+  },
+  {
+    "id": "c_6",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Design",
+    "university": "Harvard University",
+    "tags": [
+      "Business",
+      "Robotics",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Design. Weekly sessions and projects."
+  },
+  {
+    "id": "c_7",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "Harvard University",
+    "tags": [
+      "Data Science",
+      "Design",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_8",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "Harvard University",
+    "tags": [
+      "Business",
+      "AI/ML",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "e_6",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "Harvard University",
+    "tags": [
+      "Design",
+      "Business",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_7",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "Harvard University",
+    "tags": [
+      "Data Science",
+      "Business",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_8",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "Harvard University",
+    "tags": [
+      "Business",
+      "Design",
+      "Healthcare",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_24",
+    "title": "Diya Patel",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "MIT",
+    "tags": [
+      "Design",
+      "Business",
+      "Cybersecurity",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Business, Cybersecurity."
+  },
+  {
+    "id": "p_25",
+    "title": "Ethan Chen",
+    "type": "person",
+    "domain": "Design",
+    "university": "MIT",
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Design",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in AI/ML, Business, Design."
+  },
+  {
+    "id": "p_26",
+    "title": "Aarav Kim",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "MIT",
+    "tags": [
+      "Healthcare",
+      "Design",
+      "Robotics",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Healthcare, Design, Robotics."
+  },
+  {
+    "id": "p_27",
+    "title": "Sophia Singh",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "MIT",
+    "tags": [
+      "Design",
+      "Coding",
+      "Business",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Design, Coding, Business."
+  },
+  {
+    "id": "p_28",
+    "title": "Aarav Khan",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "MIT",
+    "tags": [
+      "AI/ML",
+      "Cybersecurity",
+      "Healthcare",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in AI/ML, Cybersecurity, Healthcare."
+  },
+  {
+    "id": "p_29",
+    "title": "Ethan Singh",
+    "type": "person",
+    "domain": "Coding",
+    "university": "MIT",
+    "tags": [
+      "Business",
+      "Data Science",
+      "Cybersecurity",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Business, Data Science, Cybersecurity."
+  },
+  {
+    "id": "p_30",
+    "title": "Diya Khan",
+    "type": "person",
+    "domain": "Business",
+    "university": "MIT",
+    "tags": [
+      "Data Science",
+      "AI/ML",
+      "Healthcare",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Data Science, AI/ML, Healthcare."
+  },
+  {
+    "id": "p_31",
+    "title": "Rohan Khan",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "MIT",
+    "tags": [
+      "Business",
+      "Design",
+      "Robotics",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Business, Design, Robotics."
+  },
+  {
+    "id": "c_9",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "MIT",
+    "tags": [
+      "Design",
+      "Robotics",
+      "Data Science",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_10",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "MIT",
+    "tags": [
+      "Healthcare",
+      "Design",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_11",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "MIT",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "e_9",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "MIT",
+    "tags": [
+      "Business",
+      "AI/ML",
+      "Healthcare",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_10",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Design",
+    "university": "MIT",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_11",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Business",
+    "university": "MIT",
+    "tags": [
+      "Robotics",
+      "Coding",
+      "Business",
+      "networking"
+    ],
+    "description": "An event focused on Business. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_32",
+    "title": "Ethan Singh",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Stanford University",
+    "tags": [
+      "AI/ML",
+      "Robotics",
+      "Healthcare",
+      "Founder"
+    ],
+    "description": "Founder. Interested in AI/ML, Robotics, Healthcare."
+  },
+  {
+    "id": "p_33",
+    "title": "Kabir Taylor",
+    "type": "person",
+    "domain": "Business",
+    "university": "Stanford University",
+    "tags": [
+      "Healthcare",
+      "AI/ML",
+      "Data Science",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Healthcare, AI/ML, Data Science."
+  },
+  {
+    "id": "p_34",
+    "title": "Sophia Singh",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Stanford University",
+    "tags": [
+      "Healthcare",
+      "Cybersecurity",
+      "Business",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Healthcare, Cybersecurity, Business."
+  },
+  {
+    "id": "p_35",
+    "title": "Sophia Garcia",
+    "type": "person",
+    "domain": "Design",
+    "university": "Stanford University",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "AI/ML",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Cybersecurity, Coding, AI/ML."
+  },
+  {
+    "id": "p_36",
+    "title": "Diya Taylor",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Stanford University",
+    "tags": [
+      "AI/ML",
+      "Cybersecurity",
+      "Coding",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in AI/ML, Cybersecurity, Coding."
+  },
+  {
+    "id": "p_37",
+    "title": "Isha Taylor",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Stanford University",
+    "tags": [
+      "Cybersecurity",
+      "Healthcare",
+      "Robotics",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Cybersecurity, Healthcare, Robotics."
+  },
+  {
+    "id": "p_38",
+    "title": "Maya Singh",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Stanford University",
+    "tags": [
+      "Business",
+      "Robotics",
+      "Cybersecurity",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Business, Robotics, Cybersecurity."
+  },
+  {
+    "id": "p_39",
+    "title": "Liam Patel",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "Stanford University",
+    "tags": [
+      "Coding",
+      "Design",
+      "Business",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Coding, Design, Business."
+  },
+  {
+    "id": "c_12",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "Stanford University",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "c_13",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "Stanford University",
+    "tags": [
+      "Design",
+      "Robotics",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_14",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "Stanford University",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "e_12",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Coding",
+    "university": "Stanford University",
+    "tags": [
+      "Coding",
+      "Data Science",
+      "Business",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_13",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Data Science",
+    "university": "Stanford University",
+    "tags": [
+      "Coding",
+      "Robotics",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Data Science. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_14",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Data Science",
+    "university": "Stanford University",
+    "tags": [
+      "Design",
+      "Coding",
+      "Business",
+      "networking"
+    ],
+    "description": "An event focused on Data Science. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_40",
+    "title": "Sophia Shah",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "UC Berkeley",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Data Science",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Cybersecurity, Business, Data Science."
+  },
+  {
+    "id": "p_41",
+    "title": "Ethan Garcia",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "UC Berkeley",
+    "tags": [
+      "Design",
+      "AI/ML",
+      "Robotics",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Design, AI/ML, Robotics."
+  },
+  {
+    "id": "p_42",
+    "title": "Rohan Kim",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "UC Berkeley",
+    "tags": [
+      "Business",
+      "Data Science",
+      "Coding",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Business, Data Science, Coding."
+  },
+  {
+    "id": "p_43",
+    "title": "Nora Taylor",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "UC Berkeley",
+    "tags": [
+      "Robotics",
+      "AI/ML",
+      "Data Science",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Robotics, AI/ML, Data Science."
+  },
+  {
+    "id": "p_44",
+    "title": "Kabir Mehta",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "UC Berkeley",
+    "tags": [
+      "Business",
+      "Healthcare",
+      "Design",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Business, Healthcare, Design."
+  },
+  {
+    "id": "p_45",
+    "title": "Nora Martin",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "UC Berkeley",
+    "tags": [
+      "Business",
+      "Design",
+      "Healthcare",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Business, Design, Healthcare."
+  },
+  {
+    "id": "p_46",
+    "title": "Rohan Brown",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "UC Berkeley",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Data Science",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in AI/ML, Healthcare, Data Science."
+  },
+  {
+    "id": "p_47",
+    "title": "Noah Martin",
+    "type": "person",
+    "domain": "Design",
+    "university": "UC Berkeley",
+    "tags": [
+      "Data Science",
+      "AI/ML",
+      "Robotics",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Data Science, AI/ML, Robotics."
+  },
+  {
+    "id": "c_15",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "UC Berkeley",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_16",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "UC Berkeley",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "c_17",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "UC Berkeley",
+    "tags": [
+      "Healthcare",
+      "Cybersecurity",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "e_15",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Design",
+    "university": "UC Berkeley",
+    "tags": [
+      "Data Science",
+      "Robotics",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_16",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Coding",
+    "university": "UC Berkeley",
+    "tags": [
+      "Healthcare",
+      "Design",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_17",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "UC Berkeley",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Design",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_48",
+    "title": "Olivia Khan",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "NYU",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "Robotics",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Cybersecurity, Design, Robotics."
+  },
+  {
+    "id": "p_49",
+    "title": "Rohan Singh",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "NYU",
+    "tags": [
+      "Business",
+      "Coding",
+      "Healthcare",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Business, Coding, Healthcare."
+  },
+  {
+    "id": "p_50",
+    "title": "Noah Taylor",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "NYU",
+    "tags": [
+      "Design",
+      "Robotics",
+      "Coding",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Robotics, Coding."
+  },
+  {
+    "id": "p_51",
+    "title": "Rohan Johnson",
+    "type": "person",
+    "domain": "Coding",
+    "university": "NYU",
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Design",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in AI/ML, Business, Design."
+  },
+  {
+    "id": "p_52",
+    "title": "Olivia Shah",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "NYU",
+    "tags": [
+      "Design",
+      "Robotics",
+      "Data Science",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Design, Robotics, Data Science."
+  },
+  {
+    "id": "p_53",
+    "title": "Maya Chen",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "NYU",
+    "tags": [
+      "Coding",
+      "Robotics",
+      "Data Science",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Coding, Robotics, Data Science."
+  },
+  {
+    "id": "p_54",
+    "title": "Aarav Shah",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "NYU",
+    "tags": [
+      "Coding",
+      "Data Science",
+      "Robotics",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Coding, Data Science, Robotics."
+  },
+  {
+    "id": "p_55",
+    "title": "Liam Chen",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "NYU",
+    "tags": [
+      "Design",
+      "Data Science",
+      "AI/ML",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Design, Data Science, AI/ML."
+  },
+  {
+    "id": "c_18",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "NYU",
+    "tags": [
+      "Cybersecurity",
+      "Robotics",
+      "Healthcare",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "c_19",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "NYU",
+    "tags": [
+      "Data Science",
+      "Cybersecurity",
+      "Healthcare",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_20",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "NYU",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "e_18",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Design",
+    "university": "NYU",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_19",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "NYU",
+    "tags": [
+      "Design",
+      "Coding",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_20",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Business",
+    "university": "NYU",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on Business. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_56",
+    "title": "Nora Garcia",
+    "type": "person",
+    "domain": "Business",
+    "university": "Columbia University",
+    "tags": [
+      "Coding",
+      "Business",
+      "Design",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Coding, Business, Design."
+  },
+  {
+    "id": "p_57",
+    "title": "Sophia Mehta",
+    "type": "person",
+    "domain": "Design",
+    "university": "Columbia University",
+    "tags": [
+      "Data Science",
+      "Design",
+      "Coding",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Data Science, Design, Coding."
+  },
+  {
+    "id": "p_58",
+    "title": "Liam Chen",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Columbia University",
+    "tags": [
+      "Design",
+      "Data Science",
+      "Cybersecurity",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Design, Data Science, Cybersecurity."
+  },
+  {
+    "id": "p_59",
+    "title": "Maya Khan",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Columbia University",
+    "tags": [
+      "Data Science",
+      "Design",
+      "AI/ML",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Data Science, Design, AI/ML."
+  },
+  {
+    "id": "p_60",
+    "title": "Nora Brown",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Columbia University",
+    "tags": [
+      "Design",
+      "Cybersecurity",
+      "Business",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Design, Cybersecurity, Business."
+  },
+  {
+    "id": "p_61",
+    "title": "Kabir Kim",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "Columbia University",
+    "tags": [
+      "Data Science",
+      "Coding",
+      "Robotics",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Data Science, Coding, Robotics."
+  },
+  {
+    "id": "p_62",
+    "title": "Noah Kim",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Columbia University",
+    "tags": [
+      "Coding",
+      "Healthcare",
+      "Data Science",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Coding, Healthcare, Data Science."
+  },
+  {
+    "id": "p_63",
+    "title": "Aarav Kim",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Columbia University",
+    "tags": [
+      "Data Science",
+      "Business",
+      "Design",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Data Science, Business, Design."
+  },
+  {
+    "id": "c_21",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Coding",
+    "university": "Columbia University",
+    "tags": [
+      "Healthcare",
+      "Design",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_22",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Design",
+    "university": "Columbia University",
+    "tags": [
+      "Robotics",
+      "Coding",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Design. Weekly sessions and projects."
+  },
+  {
+    "id": "c_23",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "Columbia University",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "e_21",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "Columbia University",
+    "tags": [
+      "AI/ML",
+      "Coding",
+      "Business",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_22",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Business",
+    "university": "Columbia University",
+    "tags": [
+      "AI/ML",
+      "Data Science",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Business. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_23",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Design",
+    "university": "Columbia University",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Business",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_64",
+    "title": "Rohan Mehta",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Chicago",
+    "tags": [
+      "Design",
+      "Cybersecurity",
+      "Robotics",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Cybersecurity, Robotics."
+  },
+  {
+    "id": "p_65",
+    "title": "Kabir Garcia",
+    "type": "person",
+    "domain": "Coding",
+    "university": "University of Chicago",
+    "tags": [
+      "Business",
+      "Data Science",
+      "Cybersecurity",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Business, Data Science, Cybersecurity."
+  },
+  {
+    "id": "p_66",
+    "title": "Kabir Shah",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "University of Chicago",
+    "tags": [
+      "Data Science",
+      "Design",
+      "Robotics",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Data Science, Design, Robotics."
+  },
+  {
+    "id": "p_67",
+    "title": "Rohan Shah",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Chicago",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "Robotics",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Healthcare, Data Science, Robotics."
+  },
+  {
+    "id": "p_68",
+    "title": "Olivia Shah",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "University of Chicago",
+    "tags": [
+      "Data Science",
+      "Robotics",
+      "Coding",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Data Science, Robotics, Coding."
+  },
+  {
+    "id": "p_69",
+    "title": "Diya Singh",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Chicago",
+    "tags": [
+      "Data Science",
+      "Cybersecurity",
+      "Design",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Data Science, Cybersecurity, Design."
+  },
+  {
+    "id": "p_70",
+    "title": "Diya Kim",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Chicago",
+    "tags": [
+      "Coding",
+      "Design",
+      "Business",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Coding, Design, Business."
+  },
+  {
+    "id": "p_71",
+    "title": "Sophia Singh",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Chicago",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "Data Science",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Cybersecurity, Design, Data Science."
+  },
+  {
+    "id": "c_24",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "University of Chicago",
+    "tags": [
+      "Design",
+      "Data Science",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "c_25",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "University of Chicago",
+    "tags": [
+      "Design",
+      "Data Science",
+      "Cybersecurity",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "c_26",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "University of Chicago",
+    "tags": [
+      "AI/ML",
+      "Design",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "e_24",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Coding",
+    "university": "University of Chicago",
+    "tags": [
+      "Design",
+      "Coding",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_25",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "University of Chicago",
+    "tags": [
+      "Healthcare",
+      "Cybersecurity",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_26",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Design",
+    "university": "University of Chicago",
+    "tags": [
+      "Design",
+      "Robotics",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_72",
+    "title": "Ethan Singh",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Toronto",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "AI/ML",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Cybersecurity, Design, AI/ML."
+  },
+  {
+    "id": "p_73",
+    "title": "Diya Brown",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Toronto",
+    "tags": [
+      "Design",
+      "Coding",
+      "Robotics",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Design, Coding, Robotics."
+  },
+  {
+    "id": "p_74",
+    "title": "Olivia Garcia",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Toronto",
+    "tags": [
+      "Robotics",
+      "Design",
+      "Cybersecurity",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Robotics, Design, Cybersecurity."
+  },
+  {
+    "id": "p_75",
+    "title": "Liam Garcia",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Toronto",
+    "tags": [
+      "Healthcare",
+      "Coding",
+      "Data Science",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Healthcare, Coding, Data Science."
+  },
+  {
+    "id": "p_76",
+    "title": "Rohan Shah",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Toronto",
+    "tags": [
+      "Business",
+      "Robotics",
+      "Healthcare",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Business, Robotics, Healthcare."
+  },
+  {
+    "id": "p_77",
+    "title": "Sophia Mehta",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Toronto",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "Robotics",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Cybersecurity, Coding, Robotics."
+  },
+  {
+    "id": "p_78",
+    "title": "Olivia Singh",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Toronto",
+    "tags": [
+      "Design",
+      "Coding",
+      "Business",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Coding, Business."
+  },
+  {
+    "id": "p_79",
+    "title": "Nora Mehta",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Toronto",
+    "tags": [
+      "Coding",
+      "Cybersecurity",
+      "AI/ML",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Coding, Cybersecurity, AI/ML."
+  },
+  {
+    "id": "c_27",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "University of Toronto",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "c_28",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "University of Toronto",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "c_29",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "University of Toronto",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "e_27",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "University of Toronto",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_28",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Data Science",
+    "university": "University of Toronto",
+    "tags": [
+      "Business",
+      "Healthcare",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Data Science. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_29",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "University of Toronto",
+    "tags": [
+      "Coding",
+      "Data Science",
+      "Healthcare",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_80",
+    "title": "Kabir Shah",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of British Columbia",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Cybersecurity",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Data Science, Healthcare, Cybersecurity."
+  },
+  {
+    "id": "p_81",
+    "title": "Olivia Johnson",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "University of British Columbia",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "Healthcare",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Cybersecurity, Coding, Healthcare."
+  },
+  {
+    "id": "p_82",
+    "title": "Maya Brown",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "University of British Columbia",
+    "tags": [
+      "Business",
+      "Data Science",
+      "Cybersecurity",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Business, Data Science, Cybersecurity."
+  },
+  {
+    "id": "p_83",
+    "title": "Noah Johnson",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of British Columbia",
+    "tags": [
+      "Coding",
+      "Business",
+      "Data Science",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Coding, Business, Data Science."
+  },
+  {
+    "id": "p_84",
+    "title": "Liam Shah",
+    "type": "person",
+    "domain": "Coding",
+    "university": "University of British Columbia",
+    "tags": [
+      "Data Science",
+      "Design",
+      "Robotics",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Data Science, Design, Robotics."
+  },
+  {
+    "id": "p_85",
+    "title": "Olivia Chen",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of British Columbia",
+    "tags": [
+      "Design",
+      "Coding",
+      "Robotics",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Design, Coding, Robotics."
+  },
+  {
+    "id": "p_86",
+    "title": "Kabir Martin",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of British Columbia",
+    "tags": [
+      "Design",
+      "Coding",
+      "Robotics",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Coding, Robotics."
+  },
+  {
+    "id": "p_87",
+    "title": "Olivia Taylor",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of British Columbia",
+    "tags": [
+      "Business",
+      "Healthcare",
+      "Cybersecurity",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Business, Healthcare, Cybersecurity."
+  },
+  {
+    "id": "c_30",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Coding",
+    "university": "University of British Columbia",
+    "tags": [
+      "Coding",
+      "AI/ML",
+      "Data Science",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_31",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Coding",
+    "university": "University of British Columbia",
+    "tags": [
+      "Healthcare",
+      "Design",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_32",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "University of British Columbia",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "e_30",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Healthcare",
+    "university": "University of British Columbia",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Healthcare. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_31",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "University of British Columbia",
+    "tags": [
+      "Robotics",
+      "Healthcare",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_32",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "University of British Columbia",
+    "tags": [
+      "Design",
+      "Robotics",
+      "Healthcare",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_88",
+    "title": "Olivia Patel",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Oxford",
+    "tags": [
+      "AI/ML",
+      "Data Science",
+      "Business",
+      "Founder"
+    ],
+    "description": "Founder. Interested in AI/ML, Data Science, Business."
+  },
+  {
+    "id": "p_89",
+    "title": "Ethan Singh",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Oxford",
+    "tags": [
+      "Coding",
+      "Healthcare",
+      "Design",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Coding, Healthcare, Design."
+  },
+  {
+    "id": "p_90",
+    "title": "Noah Chen",
+    "type": "person",
+    "domain": "Business",
+    "university": "University of Oxford",
+    "tags": [
+      "Robotics",
+      "Design",
+      "Coding",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Robotics, Design, Coding."
+  },
+  {
+    "id": "p_91",
+    "title": "Nora Taylor",
+    "type": "person",
+    "domain": "Business",
+    "university": "University of Oxford",
+    "tags": [
+      "Robotics",
+      "Design",
+      "Cybersecurity",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Robotics, Design, Cybersecurity."
+  },
+  {
+    "id": "p_92",
+    "title": "Ethan Brown",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "University of Oxford",
+    "tags": [
+      "AI/ML",
+      "Design",
+      "Cybersecurity",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in AI/ML, Design, Cybersecurity."
+  },
+  {
+    "id": "p_93",
+    "title": "Nora Brown",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Oxford",
+    "tags": [
+      "Data Science",
+      "Cybersecurity",
+      "Healthcare",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Data Science, Cybersecurity, Healthcare."
+  },
+  {
+    "id": "p_94",
+    "title": "Aarav Taylor",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Oxford",
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Healthcare",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in AI/ML, Business, Healthcare."
+  },
+  {
+    "id": "p_95",
+    "title": "Nora Khan",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Oxford",
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Coding",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in AI/ML, Business, Coding."
+  },
+  {
+    "id": "c_33",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Coding",
+    "university": "University of Oxford",
+    "tags": [
+      "Cybersecurity",
+      "Robotics",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_34",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Business",
+    "university": "University of Oxford",
+    "tags": [
+      "Design",
+      "Robotics",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "c_35",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "University of Oxford",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "e_33",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Business",
+    "university": "University of Oxford",
+    "tags": [
+      "Business",
+      "Design",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Business. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_34",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Coding",
+    "university": "University of Oxford",
+    "tags": [
+      "Healthcare",
+      "Cybersecurity",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_35",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Healthcare",
+    "university": "University of Oxford",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "Business",
+      "networking"
+    ],
+    "description": "An event focused on Healthcare. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_96",
+    "title": "Ethan Singh",
+    "type": "person",
+    "domain": "Coding",
+    "university": "University of Cambridge",
+    "tags": [
+      "Design",
+      "Healthcare",
+      "Data Science",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Design, Healthcare, Data Science."
+  },
+  {
+    "id": "p_97",
+    "title": "Sophia Mehta",
+    "type": "person",
+    "domain": "Business",
+    "university": "University of Cambridge",
+    "tags": [
+      "Data Science",
+      "Coding",
+      "Healthcare",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Data Science, Coding, Healthcare."
+  },
+  {
+    "id": "p_98",
+    "title": "Kabir Patel",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Cambridge",
+    "tags": [
+      "Cybersecurity",
+      "Data Science",
+      "Business",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Cybersecurity, Data Science, Business."
+  },
+  {
+    "id": "p_99",
+    "title": "Ethan Singh",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Cambridge",
+    "tags": [
+      "Robotics",
+      "Healthcare",
+      "Data Science",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Robotics, Healthcare, Data Science."
+  },
+  {
+    "id": "p_100",
+    "title": "Maya Chen",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Cambridge",
+    "tags": [
+      "Design",
+      "Healthcare",
+      "Cybersecurity",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Design, Healthcare, Cybersecurity."
+  },
+  {
+    "id": "p_101",
+    "title": "Rohan Kim",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "University of Cambridge",
+    "tags": [
+      "Cybersecurity",
+      "Robotics",
+      "Design",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Cybersecurity, Robotics, Design."
+  },
+  {
+    "id": "p_102",
+    "title": "Maya Taylor",
+    "type": "person",
+    "domain": "Coding",
+    "university": "University of Cambridge",
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Healthcare",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in AI/ML, Business, Healthcare."
+  },
+  {
+    "id": "p_103",
+    "title": "Olivia Garcia",
+    "type": "person",
+    "domain": "Business",
+    "university": "University of Cambridge",
+    "tags": [
+      "Business",
+      "Healthcare",
+      "Design",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Business, Healthcare, Design."
+  },
+  {
+    "id": "c_36",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "University of Cambridge",
+    "tags": [
+      "Coding",
+      "Design",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "c_37",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Coding",
+    "university": "University of Cambridge",
+    "tags": [
+      "Cybersecurity",
+      "Data Science",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_38",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "University of Cambridge",
+    "tags": [
+      "Data Science",
+      "Robotics",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "e_36",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "University of Cambridge",
+    "tags": [
+      "Data Science",
+      "Coding",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_37",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "University of Cambridge",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_38",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Design",
+    "university": "University of Cambridge",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_104",
+    "title": "Diya Kim",
+    "type": "person",
+    "domain": "Business",
+    "university": "Imperial College London",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Robotics",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Cybersecurity, Business, Robotics."
+  },
+  {
+    "id": "p_105",
+    "title": "Kabir Patel",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Imperial College London",
+    "tags": [
+      "AI/ML",
+      "Coding",
+      "Data Science",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in AI/ML, Coding, Data Science."
+  },
+  {
+    "id": "p_106",
+    "title": "Nora Kim",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Imperial College London",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Robotics",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Data Science, Healthcare, Robotics."
+  },
+  {
+    "id": "p_107",
+    "title": "Isha Mehta",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Imperial College London",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Robotics",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Data Science, Healthcare, Robotics."
+  },
+  {
+    "id": "p_108",
+    "title": "Rohan Chen",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Imperial College London",
+    "tags": [
+      "Cybersecurity",
+      "Robotics",
+      "Coding",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Cybersecurity, Robotics, Coding."
+  },
+  {
+    "id": "p_109",
+    "title": "Ethan Brown",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Imperial College London",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Cybersecurity",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Healthcare, Robotics, Cybersecurity."
+  },
+  {
+    "id": "p_110",
+    "title": "Isha Shah",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "Imperial College London",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Design",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Healthcare, Robotics, Design."
+  },
+  {
+    "id": "p_111",
+    "title": "Sophia Brown",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "Imperial College London",
+    "tags": [
+      "Design",
+      "Cybersecurity",
+      "Data Science",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Design, Cybersecurity, Data Science."
+  },
+  {
+    "id": "c_39",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Business",
+    "university": "Imperial College London",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "c_40",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "Imperial College London",
+    "tags": [
+      "Healthcare",
+      "AI/ML",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "c_41",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "Imperial College London",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "e_39",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "Imperial College London",
+    "tags": [
+      "Cybersecurity",
+      "Data Science",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_40",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Design",
+    "university": "Imperial College London",
+    "tags": [
+      "Robotics",
+      "Business",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_41",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Design",
+    "university": "Imperial College London",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_112",
+    "title": "Noah Taylor",
+    "type": "person",
+    "domain": "Coding",
+    "university": "UCL",
+    "tags": [
+      "AI/ML",
+      "Coding",
+      "Design",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in AI/ML, Coding, Design."
+  },
+  {
+    "id": "p_113",
+    "title": "Aarav Khan",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "UCL",
+    "tags": [
+      "Business",
+      "Coding",
+      "Data Science",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Business, Coding, Data Science."
+  },
+  {
+    "id": "p_114",
+    "title": "Sophia Kim",
+    "type": "person",
+    "domain": "Coding",
+    "university": "UCL",
+    "tags": [
+      "Coding",
+      "Data Science",
+      "Healthcare",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Coding, Data Science, Healthcare."
+  },
+  {
+    "id": "p_115",
+    "title": "Nora Singh",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "UCL",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "Design",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Healthcare, Data Science, Design."
+  },
+  {
+    "id": "p_116",
+    "title": "Kabir Martin",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "UCL",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Business",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Cybersecurity, AI/ML, Business."
+  },
+  {
+    "id": "p_117",
+    "title": "Rohan Taylor",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "UCL",
+    "tags": [
+      "Robotics",
+      "AI/ML",
+      "Design",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Robotics, AI/ML, Design."
+  },
+  {
+    "id": "p_118",
+    "title": "Aarav Brown",
+    "type": "person",
+    "domain": "Business",
+    "university": "UCL",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "Data Science",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Robotics, Cybersecurity, Data Science."
+  },
+  {
+    "id": "p_119",
+    "title": "Noah Brown",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "UCL",
+    "tags": [
+      "Business",
+      "Robotics",
+      "Cybersecurity",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Business, Robotics, Cybersecurity."
+  },
+  {
+    "id": "c_42",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "UCL",
+    "tags": [
+      "Robotics",
+      "Healthcare",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "c_43",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Business",
+    "university": "UCL",
+    "tags": [
+      "Cybersecurity",
+      "Robotics",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "c_44",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "UCL",
+    "tags": [
+      "Coding",
+      "AI/ML",
+      "Data Science",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "e_42",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Healthcare",
+    "university": "UCL",
+    "tags": [
+      "Business",
+      "AI/ML",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Healthcare. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_43",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Coding",
+    "university": "UCL",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_44",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Data Science",
+    "university": "UCL",
+    "tags": [
+      "Coding",
+      "Design",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Data Science. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_120",
+    "title": "Diya Chen",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "ETH Zurich",
+    "tags": [
+      "AI/ML",
+      "Robotics",
+      "Coding",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in AI/ML, Robotics, Coding."
+  },
+  {
+    "id": "p_121",
+    "title": "Rohan Chen",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "ETH Zurich",
+    "tags": [
+      "Robotics",
+      "AI/ML",
+      "Cybersecurity",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Robotics, AI/ML, Cybersecurity."
+  },
+  {
+    "id": "p_122",
+    "title": "Nora Singh",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "ETH Zurich",
+    "tags": [
+      "Data Science",
+      "Coding",
+      "Business",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Data Science, Coding, Business."
+  },
+  {
+    "id": "p_123",
+    "title": "Diya Chen",
+    "type": "person",
+    "domain": "Business",
+    "university": "ETH Zurich",
+    "tags": [
+      "AI/ML",
+      "Cybersecurity",
+      "Coding",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in AI/ML, Cybersecurity, Coding."
+  },
+  {
+    "id": "p_124",
+    "title": "Rohan Mehta",
+    "type": "person",
+    "domain": "Design",
+    "university": "ETH Zurich",
+    "tags": [
+      "Design",
+      "Healthcare",
+      "Business",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Healthcare, Business."
+  },
+  {
+    "id": "p_125",
+    "title": "Rohan Garcia",
+    "type": "person",
+    "domain": "Coding",
+    "university": "ETH Zurich",
+    "tags": [
+      "AI/ML",
+      "Coding",
+      "Business",
+      "Founder"
+    ],
+    "description": "Founder. Interested in AI/ML, Coding, Business."
+  },
+  {
+    "id": "p_126",
+    "title": "Isha Singh",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "ETH Zurich",
+    "tags": [
+      "Business",
+      "Robotics",
+      "AI/ML",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Business, Robotics, AI/ML."
+  },
+  {
+    "id": "p_127",
+    "title": "Isha Patel",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "ETH Zurich",
+    "tags": [
+      "Robotics",
+      "AI/ML",
+      "Business",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Robotics, AI/ML, Business."
+  },
+  {
+    "id": "c_45",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "ETH Zurich",
+    "tags": [
+      "Coding",
+      "Robotics",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "c_46",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Business",
+    "university": "ETH Zurich",
+    "tags": [
+      "Business",
+      "Design",
+      "Data Science",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "c_47",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "ETH Zurich",
+    "tags": [
+      "Business",
+      "Design",
+      "Healthcare",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "e_45",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Design",
+    "university": "ETH Zurich",
+    "tags": [
+      "AI/ML",
+      "Robotics",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_46",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Healthcare",
+    "university": "ETH Zurich",
+    "tags": [
+      "AI/ML",
+      "Cybersecurity",
+      "Design",
+      "networking"
+    ],
+    "description": "An event focused on Healthcare. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_47",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Data Science",
+    "university": "ETH Zurich",
+    "tags": [
+      "Business",
+      "Design",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Data Science. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_128",
+    "title": "Ethan Shah",
+    "type": "person",
+    "domain": "Business",
+    "university": "TU Munich",
+    "tags": [
+      "Coding",
+      "AI/ML",
+      "Business",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Coding, AI/ML, Business."
+  },
+  {
+    "id": "p_129",
+    "title": "Kabir Khan",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "TU Munich",
+    "tags": [
+      "Healthcare",
+      "Design",
+      "Cybersecurity",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Healthcare, Design, Cybersecurity."
+  },
+  {
+    "id": "p_130",
+    "title": "Olivia Kim",
+    "type": "person",
+    "domain": "Business",
+    "university": "TU Munich",
+    "tags": [
+      "Design",
+      "Cybersecurity",
+      "Data Science",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Design, Cybersecurity, Data Science."
+  },
+  {
+    "id": "p_131",
+    "title": "Rohan Kim",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "TU Munich",
+    "tags": [
+      "Data Science",
+      "Design",
+      "Robotics",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Data Science, Design, Robotics."
+  },
+  {
+    "id": "p_132",
+    "title": "Diya Garcia",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "TU Munich",
+    "tags": [
+      "Healthcare",
+      "Coding",
+      "Business",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Healthcare, Coding, Business."
+  },
+  {
+    "id": "p_133",
+    "title": "Noah Chen",
+    "type": "person",
+    "domain": "Business",
+    "university": "TU Munich",
+    "tags": [
+      "Business",
+      "AI/ML",
+      "Design",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Business, AI/ML, Design."
+  },
+  {
+    "id": "p_134",
+    "title": "Diya Martin",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "TU Munich",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Data Science",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in AI/ML, Healthcare, Data Science."
+  },
+  {
+    "id": "p_135",
+    "title": "Liam Garcia",
+    "type": "person",
+    "domain": "Business",
+    "university": "TU Munich",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "Cybersecurity",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Robotics, Data Science, Cybersecurity."
+  },
+  {
+    "id": "c_48",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "TU Munich",
+    "tags": [
+      "AI/ML",
+      "Coding",
+      "Healthcare",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "c_49",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "TU Munich",
+    "tags": [
+      "Business",
+      "Healthcare",
+      "Data Science",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "c_50",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Design",
+    "university": "TU Munich",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Design. Weekly sessions and projects."
+  },
+  {
+    "id": "e_48",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "TU Munich",
+    "tags": [
+      "Robotics",
+      "AI/ML",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_49",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Design",
+    "university": "TU Munich",
+    "tags": [
+      "AI/ML",
+      "Healthcare",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_50",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Healthcare",
+    "university": "TU Munich",
+    "tags": [
+      "Coding",
+      "Cybersecurity",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Healthcare. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_136",
+    "title": "Kabir Garcia",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "Sorbonne University",
+    "tags": [
+      "Coding",
+      "Data Science",
+      "Business",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Coding, Data Science, Business."
+  },
+  {
+    "id": "p_137",
+    "title": "Olivia Taylor",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Sorbonne University",
+    "tags": [
+      "Coding",
+      "Robotics",
+      "Data Science",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Coding, Robotics, Data Science."
+  },
+  {
+    "id": "p_138",
+    "title": "Aarav Shah",
+    "type": "person",
+    "domain": "Design",
+    "university": "Sorbonne University",
+    "tags": [
+      "Data Science",
+      "Design",
+      "Coding",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Data Science, Design, Coding."
+  },
+  {
+    "id": "p_139",
+    "title": "Isha Garcia",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Sorbonne University",
+    "tags": [
+      "Business",
+      "AI/ML",
+      "Cybersecurity",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Business, AI/ML, Cybersecurity."
+  },
+  {
+    "id": "p_140",
+    "title": "Isha Khan",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Sorbonne University",
+    "tags": [
+      "Healthcare",
+      "Design",
+      "Robotics",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Healthcare, Design, Robotics."
+  },
+  {
+    "id": "p_141",
+    "title": "Maya Chen",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "Sorbonne University",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Cybersecurity",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Healthcare, Business, Cybersecurity."
+  },
+  {
+    "id": "p_142",
+    "title": "Diya Garcia",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Sorbonne University",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Data Science",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Healthcare, Robotics, Data Science."
+  },
+  {
+    "id": "p_143",
+    "title": "Olivia Chen",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Sorbonne University",
+    "tags": [
+      "Design",
+      "Cybersecurity",
+      "Healthcare",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Design, Cybersecurity, Healthcare."
+  },
+  {
+    "id": "c_51",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "Sorbonne University",
+    "tags": [
+      "Design",
+      "Coding",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "c_52",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Coding",
+    "university": "Sorbonne University",
+    "tags": [
+      "Healthcare",
+      "Coding",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_53",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "Sorbonne University",
+    "tags": [
+      "Data Science",
+      "Business",
+      "Cybersecurity",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "e_51",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Data Science",
+    "university": "Sorbonne University",
+    "tags": [
+      "Design",
+      "Healthcare",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Data Science. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_52",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "Sorbonne University",
+    "tags": [
+      "Data Science",
+      "Cybersecurity",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_53",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "Sorbonne University",
+    "tags": [
+      "AI/ML",
+      "Design",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_144",
+    "title": "Nora Khan",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "IIT Delhi",
+    "tags": [
+      "Data Science",
+      "Robotics",
+      "Cybersecurity",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Data Science, Robotics, Cybersecurity."
+  },
+  {
+    "id": "p_145",
+    "title": "Maya Brown",
+    "type": "person",
+    "domain": "Business",
+    "university": "IIT Delhi",
+    "tags": [
+      "AI/ML",
+      "Coding",
+      "Business",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in AI/ML, Coding, Business."
+  },
+  {
+    "id": "p_146",
+    "title": "Olivia Chen",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "IIT Delhi",
+    "tags": [
+      "Data Science",
+      "Cybersecurity",
+      "AI/ML",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Data Science, Cybersecurity, AI/ML."
+  },
+  {
+    "id": "p_147",
+    "title": "Rohan Kim",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "IIT Delhi",
+    "tags": [
+      "Business",
+      "Design",
+      "Coding",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Business, Design, Coding."
+  },
+  {
+    "id": "p_148",
+    "title": "Sophia Garcia",
+    "type": "person",
+    "domain": "Design",
+    "university": "IIT Delhi",
+    "tags": [
+      "Coding",
+      "AI/ML",
+      "Healthcare",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Coding, AI/ML, Healthcare."
+  },
+  {
+    "id": "p_149",
+    "title": "Noah Shah",
+    "type": "person",
+    "domain": "Design",
+    "university": "IIT Delhi",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "Data Science",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Robotics, Cybersecurity, Data Science."
+  },
+  {
+    "id": "p_150",
+    "title": "Isha Johnson",
+    "type": "person",
+    "domain": "Business",
+    "university": "IIT Delhi",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Data Science",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Healthcare, Business, Data Science."
+  },
+  {
+    "id": "p_151",
+    "title": "Olivia Mehta",
+    "type": "person",
+    "domain": "Business",
+    "university": "IIT Delhi",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "Healthcare",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Cybersecurity, Design, Healthcare."
+  },
+  {
+    "id": "c_54",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "IIT Delhi",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "Cybersecurity",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "c_55",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "IIT Delhi",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_56",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "IIT Delhi",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "e_54",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "IIT Delhi",
+    "tags": [
+      "Business",
+      "Coding",
+      "Design",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_55",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "IIT Delhi",
+    "tags": [
+      "AI/ML",
+      "Coding",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_56",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Business",
+    "university": "IIT Delhi",
+    "tags": [
+      "Business",
+      "Healthcare",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Business. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_152",
+    "title": "Liam Kim",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "IIT Bombay",
+    "tags": [
+      "AI/ML",
+      "Design",
+      "Healthcare",
+      "Founder"
+    ],
+    "description": "Founder. Interested in AI/ML, Design, Healthcare."
+  },
+  {
+    "id": "p_153",
+    "title": "Noah Johnson",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "IIT Bombay",
+    "tags": [
+      "Cybersecurity",
+      "Healthcare",
+      "Business",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Cybersecurity, Healthcare, Business."
+  },
+  {
+    "id": "p_154",
+    "title": "Aarav Chen",
+    "type": "person",
+    "domain": "Business",
+    "university": "IIT Bombay",
+    "tags": [
+      "Business",
+      "Healthcare",
+      "Robotics",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Business, Healthcare, Robotics."
+  },
+  {
+    "id": "p_155",
+    "title": "Isha Patel",
+    "type": "person",
+    "domain": "Design",
+    "university": "IIT Bombay",
+    "tags": [
+      "Cybersecurity",
+      "Healthcare",
+      "Data Science",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Cybersecurity, Healthcare, Data Science."
+  },
+  {
+    "id": "p_156",
+    "title": "Olivia Mehta",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "IIT Bombay",
+    "tags": [
+      "Healthcare",
+      "Design",
+      "Data Science",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Healthcare, Design, Data Science."
+  },
+  {
+    "id": "p_157",
+    "title": "Nora Taylor",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "IIT Bombay",
+    "tags": [
+      "Business",
+      "Coding",
+      "AI/ML",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Business, Coding, AI/ML."
+  },
+  {
+    "id": "p_158",
+    "title": "Liam Taylor",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "IIT Bombay",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "Data Science",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Healthcare, Robotics, Data Science."
+  },
+  {
+    "id": "p_159",
+    "title": "Olivia Mehta",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "IIT Bombay",
+    "tags": [
+      "Coding",
+      "Cybersecurity",
+      "Data Science",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Coding, Cybersecurity, Data Science."
+  },
+  {
+    "id": "c_57",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "IIT Bombay",
+    "tags": [
+      "Business",
+      "Coding",
+      "Healthcare",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "c_58",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "IIT Bombay",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "c_59",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Business",
+    "university": "IIT Bombay",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "e_57",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "IIT Bombay",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_58",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "IIT Bombay",
+    "tags": [
+      "Design",
+      "Business",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_59",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Coding",
+    "university": "IIT Bombay",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_160",
+    "title": "Liam Singh",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "National University of Singapore",
+    "tags": [
+      "Coding",
+      "Healthcare",
+      "Design",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Coding, Healthcare, Design."
+  },
+  {
+    "id": "p_161",
+    "title": "Isha Mehta",
+    "type": "person",
+    "domain": "Coding",
+    "university": "National University of Singapore",
+    "tags": [
+      "Coding",
+      "Robotics",
+      "Design",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Coding, Robotics, Design."
+  },
+  {
+    "id": "p_162",
+    "title": "Aarav Kim",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "National University of Singapore",
+    "tags": [
+      "Cybersecurity",
+      "Healthcare",
+      "Coding",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Cybersecurity, Healthcare, Coding."
+  },
+  {
+    "id": "p_163",
+    "title": "Sophia Chen",
+    "type": "person",
+    "domain": "Design",
+    "university": "National University of Singapore",
+    "tags": [
+      "Design",
+      "Coding",
+      "Cybersecurity",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Design, Coding, Cybersecurity."
+  },
+  {
+    "id": "p_164",
+    "title": "Rohan Garcia",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "National University of Singapore",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "Design",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Healthcare, Data Science, Design."
+  },
+  {
+    "id": "p_165",
+    "title": "Liam Singh",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "National University of Singapore",
+    "tags": [
+      "Design",
+      "Data Science",
+      "Healthcare",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Design, Data Science, Healthcare."
+  },
+  {
+    "id": "p_166",
+    "title": "Isha Brown",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "National University of Singapore",
+    "tags": [
+      "Robotics",
+      "Healthcare",
+      "AI/ML",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Robotics, Healthcare, AI/ML."
+  },
+  {
+    "id": "p_167",
+    "title": "Sophia Singh",
+    "type": "person",
+    "domain": "Business",
+    "university": "National University of Singapore",
+    "tags": [
+      "Business",
+      "Data Science",
+      "Cybersecurity",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Business, Data Science, Cybersecurity."
+  },
+  {
+    "id": "c_60",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Healthcare",
+    "university": "National University of Singapore",
+    "tags": [
+      "Coding",
+      "Data Science",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Healthcare. Weekly sessions and projects."
+  },
+  {
+    "id": "c_61",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Business",
+    "university": "National University of Singapore",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "c_62",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "National University of Singapore",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "e_60",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Design",
+    "university": "National University of Singapore",
+    "tags": [
+      "Business",
+      "Coding",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_61",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "National University of Singapore",
+    "tags": [
+      "Business",
+      "Data Science",
+      "Robotics",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_62",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "National University of Singapore",
+    "tags": [
+      "Coding",
+      "AI/ML",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_168",
+    "title": "Ethan Martin",
+    "type": "person",
+    "domain": "Coding",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Cybersecurity",
+      "Healthcare",
+      "AI/ML",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Cybersecurity, Healthcare, AI/ML."
+  },
+  {
+    "id": "p_169",
+    "title": "Diya Patel",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Coding",
+      "Healthcare",
+      "Robotics",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Coding, Healthcare, Robotics."
+  },
+  {
+    "id": "p_170",
+    "title": "Olivia Singh",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Healthcare",
+      "Business",
+      "Coding",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Healthcare, Business, Coding."
+  },
+  {
+    "id": "p_171",
+    "title": "Diya Patel",
+    "type": "person",
+    "domain": "Design",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Data Science",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Cybersecurity, AI/ML, Data Science."
+  },
+  {
+    "id": "p_172",
+    "title": "Ethan Khan",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Design",
+      "Robotics",
+      "Business",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Design, Robotics, Business."
+  },
+  {
+    "id": "p_173",
+    "title": "Kabir Kim",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Robotics",
+      "Business",
+      "Healthcare",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Robotics, Business, Healthcare."
+  },
+  {
+    "id": "p_174",
+    "title": "Maya Mehta",
+    "type": "person",
+    "domain": "Business",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Robotics",
+      "AI/ML",
+      "Healthcare",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Robotics, AI/ML, Healthcare."
+  },
+  {
+    "id": "p_175",
+    "title": "Liam Singh",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Robotics",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Cybersecurity, AI/ML, Robotics."
+  },
+  {
+    "id": "c_63",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Healthcare",
+      "Robotics",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "c_64",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Robotics",
+      "Business",
+      "Cybersecurity",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_65",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Business",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Robotics",
+      "Business",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "e_63",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_64",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Coding",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Cybersecurity",
+      "Robotics",
+      "Design",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_65",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Coding",
+    "university": "Nanyang Technological University",
+    "tags": [
+      "Business",
+      "Robotics",
+      "Design",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_176",
+    "title": "Aarav Brown",
+    "type": "person",
+    "domain": "Design",
+    "university": "Tsinghua University",
+    "tags": [
+      "Design",
+      "AI/ML",
+      "Coding",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Design, AI/ML, Coding."
+  },
+  {
+    "id": "p_177",
+    "title": "Kabir Singh",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "Tsinghua University",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "AI/ML",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Cybersecurity, Coding, AI/ML."
+  },
+  {
+    "id": "p_178",
+    "title": "Noah Johnson",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Tsinghua University",
+    "tags": [
+      "AI/ML",
+      "Data Science",
+      "Robotics",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in AI/ML, Data Science, Robotics."
+  },
+  {
+    "id": "p_179",
+    "title": "Nora Brown",
+    "type": "person",
+    "domain": "Business",
+    "university": "Tsinghua University",
+    "tags": [
+      "Data Science",
+      "Design",
+      "Robotics",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Data Science, Design, Robotics."
+  },
+  {
+    "id": "p_180",
+    "title": "Ethan Kim",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "Tsinghua University",
+    "tags": [
+      "Cybersecurity",
+      "Robotics",
+      "Design",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Cybersecurity, Robotics, Design."
+  },
+  {
+    "id": "p_181",
+    "title": "Nora Singh",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Tsinghua University",
+    "tags": [
+      "Data Science",
+      "AI/ML",
+      "Design",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Data Science, AI/ML, Design."
+  },
+  {
+    "id": "p_182",
+    "title": "Olivia Mehta",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Tsinghua University",
+    "tags": [
+      "Business",
+      "AI/ML",
+      "Coding",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Business, AI/ML, Coding."
+  },
+  {
+    "id": "p_183",
+    "title": "Noah Brown",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "Tsinghua University",
+    "tags": [
+      "Data Science",
+      "Business",
+      "Robotics",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in Data Science, Business, Robotics."
+  },
+  {
+    "id": "c_66",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "Tsinghua University",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "c_67",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "Tsinghua University",
+    "tags": [
+      "Data Science",
+      "Coding",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_68",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "Tsinghua University",
+    "tags": [
+      "Data Science",
+      "Coding",
+      "Healthcare",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "e_66",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Coding",
+    "university": "Tsinghua University",
+    "tags": [
+      "Coding",
+      "Data Science",
+      "Healthcare",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_67",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "Tsinghua University",
+    "tags": [
+      "Coding",
+      "AI/ML",
+      "Business",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_68",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "Tsinghua University",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_184",
+    "title": "Olivia Mehta",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Tokyo",
+    "tags": [
+      "Robotics",
+      "Design",
+      "AI/ML",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Robotics, Design, AI/ML."
+  },
+  {
+    "id": "p_185",
+    "title": "Olivia Mehta",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Tokyo",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "Coding",
+      "UX Designer"
+    ],
+    "description": "UX Designer. Interested in Robotics, Cybersecurity, Coding."
+  },
+  {
+    "id": "p_186",
+    "title": "Rohan Shah",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "University of Tokyo",
+    "tags": [
+      "Cybersecurity",
+      "Healthcare",
+      "Design",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Cybersecurity, Healthcare, Design."
+  },
+  {
+    "id": "p_187",
+    "title": "Liam Shah",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Tokyo",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Healthcare",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Cybersecurity, Business, Healthcare."
+  },
+  {
+    "id": "p_188",
+    "title": "Kabir Martin",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Tokyo",
+    "tags": [
+      "Business",
+      "Cybersecurity",
+      "AI/ML",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Business, Cybersecurity, AI/ML."
+  },
+  {
+    "id": "p_189",
+    "title": "Ethan Mehta",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Tokyo",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "Coding",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Robotics, Cybersecurity, Coding."
+  },
+  {
+    "id": "p_190",
+    "title": "Sophia Shah",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Tokyo",
+    "tags": [
+      "Coding",
+      "Robotics",
+      "Data Science",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Coding, Robotics, Data Science."
+  },
+  {
+    "id": "p_191",
+    "title": "Sophia Taylor",
+    "type": "person",
+    "domain": "Coding",
+    "university": "University of Tokyo",
+    "tags": [
+      "Design",
+      "AI/ML",
+      "Business",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Design, AI/ML, Business."
+  },
+  {
+    "id": "c_69",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Coding",
+    "university": "University of Tokyo",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_70",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "University of Tokyo",
+    "tags": [
+      "Coding",
+      "Healthcare",
+      "AI/ML",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "c_71",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Business",
+    "university": "University of Tokyo",
+    "tags": [
+      "Data Science",
+      "Robotics",
+      "Cybersecurity",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "e_69",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "University of Tokyo",
+    "tags": [
+      "Data Science",
+      "Cybersecurity",
+      "Design",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_70",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Business",
+    "university": "University of Tokyo",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Business. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_71",
+    "title": "Research Showcase",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "University of Tokyo",
+    "tags": [
+      "Robotics",
+      "Business",
+      "Healthcare",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_192",
+    "title": "Noah Khan",
+    "type": "person",
+    "domain": "Coding",
+    "university": "University of Melbourne",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "AI/ML",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Data Science, Healthcare, AI/ML."
+  },
+  {
+    "id": "p_193",
+    "title": "Diya Singh",
+    "type": "person",
+    "domain": "Coding",
+    "university": "University of Melbourne",
+    "tags": [
+      "Coding",
+      "Business",
+      "Cybersecurity",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Coding, Business, Cybersecurity."
+  },
+  {
+    "id": "p_194",
+    "title": "Sophia Johnson",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Melbourne",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "AI/ML",
+      "Security Analyst"
+    ],
+    "description": "Security Analyst. Interested in Healthcare, Data Science, AI/ML."
+  },
+  {
+    "id": "p_195",
+    "title": "Kabir Johnson",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Melbourne",
+    "tags": [
+      "Healthcare",
+      "Cybersecurity",
+      "Data Science",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Healthcare, Cybersecurity, Data Science."
+  },
+  {
+    "id": "p_196",
+    "title": "Diya Singh",
+    "type": "person",
+    "domain": "Coding",
+    "university": "University of Melbourne",
+    "tags": [
+      "Coding",
+      "Business",
+      "Robotics",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Coding, Business, Robotics."
+  },
+  {
+    "id": "p_197",
+    "title": "Olivia Martin",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Melbourne",
+    "tags": [
+      "AI/ML",
+      "Data Science",
+      "Cybersecurity",
+      "Founder"
+    ],
+    "description": "Founder. Interested in AI/ML, Data Science, Cybersecurity."
+  },
+  {
+    "id": "p_198",
+    "title": "Diya Patel",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Melbourne",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "Robotics",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Data Science, Healthcare, Robotics."
+  },
+  {
+    "id": "p_199",
+    "title": "Aarav Chen",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Melbourne",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Robotics",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Cybersecurity, Business, Robotics."
+  },
+  {
+    "id": "c_72",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Data Science",
+    "university": "University of Melbourne",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Data Science. Weekly sessions and projects."
+  },
+  {
+    "id": "c_73",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "AI/ML",
+    "university": "University of Melbourne",
+    "tags": [
+      "Cybersecurity",
+      "Design",
+      "Data Science",
+      "community",
+      "students"
+    ],
+    "description": "A student community for AI/ML. Weekly sessions and projects."
+  },
+  {
+    "id": "c_74",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "University of Melbourne",
+    "tags": [
+      "Robotics",
+      "Healthcare",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "e_72",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "University of Melbourne",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "Coding",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_73",
+    "title": "Hackathon Prep",
+    "type": "event",
+    "domain": "Data Science",
+    "university": "University of Melbourne",
+    "tags": [
+      "Robotics",
+      "Healthcare",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Data Science. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_74",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "Business",
+    "university": "University of Melbourne",
+    "tags": [
+      "Design",
+      "Cybersecurity",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Business. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_200",
+    "title": "Kabir Chen",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Sydney",
+    "tags": [
+      "Business",
+      "AI/ML",
+      "Coding",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Business, AI/ML, Coding."
+  },
+  {
+    "id": "p_201",
+    "title": "Maya Khan",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "University of Sydney",
+    "tags": [
+      "Coding",
+      "Data Science",
+      "Cybersecurity",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Coding, Data Science, Cybersecurity."
+  },
+  {
+    "id": "p_202",
+    "title": "Olivia Martin",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "University of Sydney",
+    "tags": [
+      "Coding",
+      "Design",
+      "Healthcare",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Coding, Design, Healthcare."
+  },
+  {
+    "id": "p_203",
+    "title": "Ethan Chen",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Sydney",
+    "tags": [
+      "AI/ML",
+      "Cybersecurity",
+      "Design",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in AI/ML, Cybersecurity, Design."
+  },
+  {
+    "id": "p_204",
+    "title": "Liam Chen",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Sydney",
+    "tags": [
+      "Robotics",
+      "AI/ML",
+      "Data Science",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Robotics, AI/ML, Data Science."
+  },
+  {
+    "id": "p_205",
+    "title": "Kabir Chen",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Sydney",
+    "tags": [
+      "AI/ML",
+      "Data Science",
+      "Cybersecurity",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in AI/ML, Data Science, Cybersecurity."
+  },
+  {
+    "id": "p_206",
+    "title": "Maya Mehta",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Sydney",
+    "tags": [
+      "Data Science",
+      "Coding",
+      "AI/ML",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Data Science, Coding, AI/ML."
+  },
+  {
+    "id": "p_207",
+    "title": "Maya Patel",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Sydney",
+    "tags": [
+      "Healthcare",
+      "AI/ML",
+      "Design",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Healthcare, AI/ML, Design."
+  },
+  {
+    "id": "c_75",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "University of Sydney",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "Cybersecurity",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "c_76",
+    "title": "Data Science Club",
+    "type": "club",
+    "domain": "Business",
+    "university": "University of Sydney",
+    "tags": [
+      "Business",
+      "Design",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Business. Weekly sessions and projects."
+  },
+  {
+    "id": "c_77",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "University of Sydney",
+    "tags": [
+      "Robotics",
+      "Data Science",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "e_75",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Design",
+    "university": "University of Sydney",
+    "tags": [
+      "Data Science",
+      "Healthcare",
+      "AI/ML",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_76",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "AI/ML",
+    "university": "University of Sydney",
+    "tags": [
+      "Coding",
+      "Robotics",
+      "Cybersecurity",
+      "networking"
+    ],
+    "description": "An event focused on AI/ML. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_77",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Cybersecurity",
+    "university": "University of Sydney",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Healthcare",
+      "networking"
+    ],
+    "description": "An event focused on Cybersecurity. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_208",
+    "title": "Liam Mehta",
+    "type": "person",
+    "domain": "Robotics",
+    "university": "KAUST",
+    "tags": [
+      "Robotics",
+      "Business",
+      "Design",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Robotics, Business, Design."
+  },
+  {
+    "id": "p_209",
+    "title": "Olivia Martin",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "KAUST",
+    "tags": [
+      "Robotics",
+      "Healthcare",
+      "Data Science",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Robotics, Healthcare, Data Science."
+  },
+  {
+    "id": "p_210",
+    "title": "Liam Chen",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "KAUST",
+    "tags": [
+      "AI/ML",
+      "Coding",
+      "Data Science",
+      "Robotics Engineer"
+    ],
+    "description": "Robotics Engineer. Interested in AI/ML, Coding, Data Science."
+  },
+  {
+    "id": "p_211",
+    "title": "Noah Shah",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "KAUST",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "Robotics",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Healthcare, Data Science, Robotics."
+  },
+  {
+    "id": "p_212",
+    "title": "Sophia Taylor",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "KAUST",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "Robotics",
+      "Founder"
+    ],
+    "description": "Founder. Interested in Cybersecurity, Coding, Robotics."
+  },
+  {
+    "id": "p_213",
+    "title": "Olivia Khan",
+    "type": "person",
+    "domain": "Design",
+    "university": "KAUST",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Healthcare",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Cybersecurity, Business, Healthcare."
+  },
+  {
+    "id": "p_214",
+    "title": "Noah Martin",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "KAUST",
+    "tags": [
+      "Design",
+      "AI/ML",
+      "Healthcare",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Design, AI/ML, Healthcare."
+  },
+  {
+    "id": "p_215",
+    "title": "Sophia Shah",
+    "type": "person",
+    "domain": "Design",
+    "university": "KAUST",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "Design",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Cybersecurity, Coding, Design."
+  },
+  {
+    "id": "c_78",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Coding",
+    "university": "KAUST",
+    "tags": [
+      "Design",
+      "Cybersecurity",
+      "Healthcare",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_79",
+    "title": "Cybersecurity Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "KAUST",
+    "tags": [
+      "AI/ML",
+      "Robotics",
+      "Business",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "c_80",
+    "title": "Design Collective",
+    "type": "club",
+    "domain": "Design",
+    "university": "KAUST",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "Design",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Design. Weekly sessions and projects."
+  },
+  {
+    "id": "e_78",
+    "title": "Startup Pitch Night",
+    "type": "event",
+    "domain": "Data Science",
+    "university": "KAUST",
+    "tags": [
+      "Coding",
+      "Design",
+      "Healthcare",
+      "networking"
+    ],
+    "description": "An event focused on Data Science. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_79",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Robotics",
+    "university": "KAUST",
+    "tags": [
+      "Robotics",
+      "Cybersecurity",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Robotics. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_80",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Healthcare",
+    "university": "KAUST",
+    "tags": [
+      "Cybersecurity",
+      "Business",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Healthcare. Meet people and explore opportunities."
+  },
+  {
+    "id": "p_216",
+    "title": "Kabir Singh",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Cape Town",
+    "tags": [
+      "Healthcare",
+      "Data Science",
+      "Coding",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Healthcare, Data Science, Coding."
+  },
+  {
+    "id": "p_217",
+    "title": "Sophia Johnson",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Cape Town",
+    "tags": [
+      "Cybersecurity",
+      "Coding",
+      "Healthcare",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Cybersecurity, Coding, Healthcare."
+  },
+  {
+    "id": "p_218",
+    "title": "Sophia Brown",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Cape Town",
+    "tags": [
+      "Data Science",
+      "Design",
+      "Coding",
+      "Graduate Student"
+    ],
+    "description": "Graduate Student. Interested in Data Science, Design, Coding."
+  },
+  {
+    "id": "p_219",
+    "title": "Isha Brown",
+    "type": "person",
+    "domain": "AI/ML",
+    "university": "University of Cape Town",
+    "tags": [
+      "Business",
+      "Coding",
+      "Design",
+      "Data Scientist"
+    ],
+    "description": "Data Scientist. Interested in Business, Coding, Design."
+  },
+  {
+    "id": "p_220",
+    "title": "Noah Brown",
+    "type": "person",
+    "domain": "Cybersecurity",
+    "university": "University of Cape Town",
+    "tags": [
+      "Design",
+      "Data Science",
+      "Healthcare",
+      "AI Engineer"
+    ],
+    "description": "AI Engineer. Interested in Design, Data Science, Healthcare."
+  },
+  {
+    "id": "p_221",
+    "title": "Kabir Singh",
+    "type": "person",
+    "domain": "Healthcare",
+    "university": "University of Cape Town",
+    "tags": [
+      "Business",
+      "Healthcare",
+      "Robotics",
+      "PhD Student"
+    ],
+    "description": "PhD Student. Interested in Business, Healthcare, Robotics."
+  },
+  {
+    "id": "p_222",
+    "title": "Olivia Johnson",
+    "type": "person",
+    "domain": "Design",
+    "university": "University of Cape Town",
+    "tags": [
+      "Design",
+      "Robotics",
+      "Business",
+      "Research Assistant"
+    ],
+    "description": "Research Assistant. Interested in Design, Robotics, Business."
+  },
+  {
+    "id": "p_223",
+    "title": "Aarav Shah",
+    "type": "person",
+    "domain": "Data Science",
+    "university": "University of Cape Town",
+    "tags": [
+      "Cybersecurity",
+      "AI/ML",
+      "Robotics",
+      "Product Manager"
+    ],
+    "description": "Product Manager. Interested in Cybersecurity, AI/ML, Robotics."
+  },
+  {
+    "id": "c_81",
+    "title": "AI Society",
+    "type": "club",
+    "domain": "Coding",
+    "university": "University of Cape Town",
+    "tags": [
+      "Coding",
+      "Design",
+      "Robotics",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Coding. Weekly sessions and projects."
+  },
+  {
+    "id": "c_82",
+    "title": "Entrepreneurship Club",
+    "type": "club",
+    "domain": "Cybersecurity",
+    "university": "University of Cape Town",
+    "tags": [
+      "Design",
+      "Data Science",
+      "Coding",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Cybersecurity. Weekly sessions and projects."
+  },
+  {
+    "id": "c_83",
+    "title": "Robotics Club",
+    "type": "club",
+    "domain": "Robotics",
+    "university": "University of Cape Town",
+    "tags": [
+      "AI/ML",
+      "Data Science",
+      "Cybersecurity",
+      "community",
+      "students"
+    ],
+    "description": "A student community for Robotics. Weekly sessions and projects."
+  },
+  {
+    "id": "e_81",
+    "title": "Career Fair",
+    "type": "event",
+    "domain": "Design",
+    "university": "University of Cape Town",
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Design",
+      "networking"
+    ],
+    "description": "An event focused on Design. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_82",
+    "title": "AI Meetup",
+    "type": "event",
+    "domain": "Coding",
+    "university": "University of Cape Town",
+    "tags": [
+      "Data Science",
+      "Cybersecurity",
+      "Design",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  },
+  {
+    "id": "e_83",
+    "title": "Workshop: ML Basics",
+    "type": "event",
+    "domain": "Coding",
+    "university": "University of Cape Town",
+    "tags": [
+      "Healthcare",
+      "AI/ML",
+      "Data Science",
+      "networking"
+    ],
+    "description": "An event focused on Coding. Meet people and explore opportunities."
+  }
+]
