@@ -451,14 +451,35 @@ with tab1:
 
     size_map = {"person": 10, "club": 14, "event": 18}
     fm["size"] = fm["type"].astype(str).map(size_map).fillna(12)
-    fm["lon"] = ((fm["lon"].astype(float) + 180) % 360) - 180
+
+    # --- FORCE numeric + remove invalid coords ---
+    fm["lat"] = pd.to_numeric(fm["lat"], errors="coerce")
+    fm["lon"] = pd.to_numeric(fm["lon"], errors="coerce")
+    fm = fm.dropna(subset=["lat", "lon"])
+
+    if fm.empty:
+        st.warning("No valid coordinates to display.")
+        st.stop()
+
+    # Normalize longitude
+    fm["lon"] = ((fm["lon"] + 180) % 360) - 180
+
+    # --- Center globe on actual data ---
+    center_lat = float(fm["lat"].mean())
+    center_lon = float(fm["lon"].mean())
 
     if global_view:
         fig = px.scatter_geo(
-            fm, lat="lat", lon="lon",
-            color="domain", size="size", symbol="type",
-            hover_name="title", projection="orthographic",
+            fm,
+            lat="lat",
+            lon="lon",
+            color="domain",
+            size="size",
+            symbol="type",
+            hover_name="title",
+            projection="orthographic",
         )
+
         fig.update_traces(
             customdata=fm[["_node_id", "university", "type", "domain"]].to_numpy(),
             hovertemplate=(
@@ -468,13 +489,19 @@ with tab1:
                 "<extra></extra>"
             ),
         )
+
         fig.update_layout(
             geo=dict(
                 projection_type="orthographic",
-                showland=True, landcolor="rgb(235,235,235)",
-                showocean=True, oceancolor="rgb(180,215,235)",
-                showcountries=True, countrycolor="rgb(140,140,140)",
-                showcoastlines=True, coastlinecolor="rgb(120,120,120)",
+                projection_rotation=dict(lat=center_lat, lon=center_lon),  # ⭐ CRITICAL FIX
+                showland=True,
+                landcolor="rgb(235,235,235)",
+                showocean=True,
+                oceancolor="rgb(180,215,235)",
+                showcountries=True,
+                countrycolor="rgb(140,140,140)",
+                showcoastlines=True,
+                coastlinecolor="rgb(120,120,120)",
                 bgcolor="white",
             ),
             margin=dict(l=0, r=0, t=0, b=0),
