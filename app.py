@@ -461,6 +461,8 @@ with tab1:
         st.warning("No valid coordinates to display.")
         st.stop()
 
+    st.caption(f"Nodes on map: {len(fm)} | NaN coords removed: {f.shape[0] - fm.shape[0]}")
+
     # Normalize longitude
     fm["lon"] = ((fm["lon"] + 180) % 360) - 180
 
